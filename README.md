@@ -1,2 +1,2 @@
 # react-form-data
-Easy forms with React Hooks and FormData
+Easy forms with FormData, as a custom hook
