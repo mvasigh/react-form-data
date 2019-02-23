@@ -1,0 +1,22 @@
+{
+  "name": "react-form-data",
+  "version": "0.0.1",
+  "description": "Manage form state with React Hooks and FormData API",
+  "main": "useFormData.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "author": "Mehdi Vasigh",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.3.3",
+    "@babel/preset-env": "^7.3.1",
+    "rollup": "^1.2.3",
+    "rollup-plugin-babel": "^4.3.2",
+    "rollup-plugin-node-resolve": "^4.0.1"
+  }
+}
